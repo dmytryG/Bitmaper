@@ -1,0 +1,19 @@
+html {
+  background-color: #fff;
+  font: 12px "Open Sans", "Helvetica Neue", helvetica, sans-serif;
+  height: 100%;
+}
+
+body {
+  background: transparent;
+  margin: 0;
+}
+
+input[type=text]:focus,
+input[type=search]:focus,
+textarea:focus {
+  outline: 0;
+}
+#pic {
+  position: relative;
+}
